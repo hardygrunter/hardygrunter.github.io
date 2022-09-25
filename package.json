@@ -38,5 +38,6 @@
   },
   "devDependencies": {
     "sass": "^1.38.0"
-  }
+  },
+  "homepage": "https://hardygrunter.github.io"
 }
